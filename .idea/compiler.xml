@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="travel-common" />
+        <module name="travel-manager-dao" />
+        <module name="travel-manager-interface" />
+        <module name="travel-manager-pojo" />
+        <module name="travel-manager-service" />
+        <module name="travel-manager-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
